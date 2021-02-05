@@ -1,2 +1,3 @@
 Reddit like app built with Ruby on Rails, where a user can sign up, submit links, comment and vote on link submissions by others.
 Tutorial Credit: https://github.com/mackenziechild/raddit
+YouTube: https://www.youtube.com/watch?v=7-1HCWbu7iU&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=1
